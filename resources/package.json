@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "punycode": "^2.1.1"
+  },
+  "dependencies": {
+    "lit-element": "^3.2.2",
+    "lit-html": "^2.3.1",
+    "markdown-it": "^13.0.1",
+    "pwa-helpers": "^0.9.1"
+  }
+}
