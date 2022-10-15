@@ -1,5 +1,7 @@
 ## Chronicles
 
+![Image](./demo.png)
+
 ### Pre-requisites
 > Development environment
 
@@ -53,7 +55,7 @@ You need at least 4 files:
 
 > - You can add every other markdown document
 > - To add a link to a new document: use `[text](/#name_of_the_file.md)`
->   - for example: `[📝 README](/#README.md)`
+>   - for example: `- [🖐 About Chronicles](/#about.md)`
 
 ### Serve the Chronicle website 
 
